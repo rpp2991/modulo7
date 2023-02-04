@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(183, 255, 124);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body,
+form {
+    padding: 24px 0px;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+h1 {
+    padding: 16px;
+}
